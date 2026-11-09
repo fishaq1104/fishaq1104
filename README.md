@@ -10,9 +10,15 @@
     <a href="https://github.com/fishaq1104">
       <img src="https://img.shields.io/badge/GitHub-fishaq1104-17152b?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <!-- <a href="https://fishaq1104.github.io/MyProfile/">
-      <img src="https://static.vecteezy.com/system/resources/thumbnails/067/098/385/small_2x/social-network-default-profile-picture-avatar-icon-isolated-illustration-vector.jpg&logoColor=white" alt="Instagram" />
-    </a> -->
+    <a href="https://www.linkedin.com/in/fathima-aqeel-530718323/">
+      <img src="https://img.shields.io/badge/LinkedIn-Fathima%20Aqeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/fishaq1104/">
+      <img src="https://img.shields.io/badge/Instagram-fishaq1104-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://fishaq1104.github.io/MyProfile/">
+      <img src="https://img.shields.io/badge/Portfolio-MyProfile-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+    </a>
   </p>
 </div>
 
