@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="title desc">
+  <title id="title">Fathima's coding streak</title>
+  <desc id="desc">A pixel-art inspired coding streak card.</desc>
+  <rect width="495" height="180" rx="12" fill="#17152b"/>
+  <rect x="14" y="14" width="467" height="152" rx="8" fill="#211b3c" stroke="#493d91"/>
+  <text x="32" y="43" fill="#ff86c8" font-family="monospace" font-size="16" font-weight="bold">CODING_STREAK.log</text>
+  <text x="32" y="68" fill="#d9ceff" font-family="monospace" font-size="12">SMALL COMMITS / BIG MOMENTUM</text>
+  <g transform="translate(34 91)">
+    <rect width="18" height="18" fill="#493d91"/><rect x="25" width="18" height="18" fill="#7c5cfc"/>
+    <rect x="50" width="18" height="18" fill="#ff86c8"/><rect x="75" width="18" height="18" fill="#ffd45e"/>
+    <rect x="100" width="18" height="18" fill="#60d4c7"/><rect x="125" width="18" height="18" fill="#7c5cfc"/>
+    <rect x="150" width="18" height="18" fill="#ff86c8"/><rect x="175" width="18" height="18" fill="#493d91"/>
+    <rect x="200" width="18" height="18" fill="#ffd45e"/><rect x="225" width="18" height="18" fill="#60d4c7"/>
+    <rect x="250" width="18" height="18" fill="#7c5cfc"/><rect x="275" width="18" height="18" fill="#ff86c8"/>
+    <rect x="300" width="18" height="18" fill="#493d91"/><rect x="325" width="18" height="18" fill="#ffd45e"/>
+    <rect x="350" width="18" height="18" fill="#60d4c7"/><rect x="375" width="18" height="18" fill="#7c5cfc"/>
+  </g>
+  <text x="34" y="139" fill="#9e90bc" font-family="monospace" font-size="11">STATUS: KEEP BUILDING_</text>
+  <rect x="277" y="134" width="12" height="12" fill="#ff86c8">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

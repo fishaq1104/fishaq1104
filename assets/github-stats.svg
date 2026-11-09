@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="title desc">
+  <title id="title">Fathima's GitHub statistics</title>
+  <desc id="desc">A pixel-art inspired GitHub statistics card.</desc>
+  <rect width="495" height="180" rx="12" fill="#17152b"/>
+  <rect x="14" y="14" width="467" height="152" rx="8" fill="#211b3c" stroke="#493d91"/>
+  <text x="32" y="43" fill="#ff86c8" font-family="monospace" font-size="16" font-weight="bold">GITHUB_STATS.exe</text>
+  <text x="32" y="68" fill="#d9ceff" font-family="monospace" font-size="12">FATHIMA AQEEL / PROFILE DATA</text>
+  <text x="32" y="112" fill="#ffd45e" font-family="monospace" font-size="25">20</text>
+  <text x="32" y="133" fill="#9e90bc" font-family="monospace" font-size="10">PUBLIC REPOS</text>
+  <text x="180" y="112" fill="#7c5cfc" font-family="monospace" font-size="25">C</text>
+  <text x="180" y="133" fill="#9e90bc" font-family="monospace" font-size="10">CORE LANGUAGE</text>
+  <text x="345" y="112" fill="#60d4c7" font-family="monospace" font-size="25">∞</text>
+  <text x="345" y="133" fill="#9e90bc" font-family="monospace" font-size="10">IDEAS LOADING</text>
+  <circle cx="451" cy="37" r="5" fill="#60d4c7">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

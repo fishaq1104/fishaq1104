@@ -124,12 +124,12 @@ These are the smaller builds, exercises, and experiments living in my repositori
 ## `> pixels_in_motion`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fishaq1104&show_icons=true&hide_border=true&bg_color=17152b&title_color=ff86c8&text_color=d9ceff&icon_color=7c5cfc&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fishaq1104&hide_border=true&background=17152b&ring=ff86c8&fire=ffd45e&currStreakLabel=d9ceff&sideLabels=d9ceff&dates=9e90bc" height="165" alt="GitHub streak" />
+  <img src="./assets/github-stats.svg" height="180" alt="GitHub statistics" />
+  <img src="./assets/github-streak.svg" height="180" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fishaq1104&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="./assets/github-trophies.svg" alt="GitHub trophies" />
 </div>
 
 <div align="center">
