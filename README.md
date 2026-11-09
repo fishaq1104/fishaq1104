@@ -13,9 +13,9 @@
     <a href="https://www.linkedin.com/in/fathima-aqeel-530718323/">
       <img src="https://img.shields.io/badge/LinkedIn-Fathima%20Aqeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/fishaq1104/">
+    <!-- <a href="https://www.instagram.com/fishaq1104/">
       <img src="https://img.shields.io/badge/Instagram-fishaq1104-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    </a> -->
     <a href="https://fishaq1104.github.io/MyProfile/">
       <img src="https://img.shields.io/badge/Portfolio-MyProfile-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
     </a>
