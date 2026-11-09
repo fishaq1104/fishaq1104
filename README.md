@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/8e/4d/04/8e4d047a6b72d91e2fa584f23c13e00b.jpg" alt="Fathima Aqeel" width="180" />
-  <h1>Hi, I'm Fathima Aqeel 👋</h1>
-  <p>
-    <strong>Computer Science Student · Software Developer · Creative Problem Solver</strong>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152b,50:493d91,100:ff86c8&height=135&section=header&text=FATHIMA%20AQEEL&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Pixel gradient header" />
+
+  <img src="https://i.pinimg.com/736x/8e/4d/04/8e4d047a6b72d91e2fa584f23c13e00b.jpg" alt="Fathima Aqeel" width="160" />
+
+  <h1>Hi, I'm Fathima 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2600&pause=900&color=7C5CFC&center=true&vCenter=true&width=520&lines=computer+science+student;software+developer+in+progress;building+small+things+with+big+personality" alt="Animated introduction" />
+
   <p>
     <a href="https://github.com/fishaq1104">
-      <img src="https://img.shields.io/badge/GitHub-fishaq1104-181717?style=for-the-badge&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-fishaq1104-17152b?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
     <a href="https://www.instagram.com/fishaq1104/">
       <img src="https://img.shields.io/badge/Instagram-fishaq1104-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -16,69 +18,128 @@
 
 ---
 
-## ✨ About me
+## `> who_am_i`
 
-I'm a Computer Science student at **Al Ain University** and a software development student at **42 Abu Dhabi**. I enjoy understanding how things work, learning by building, and turning ideas into useful, visual experiences.
+I'm Fathima, a Computer Science student at **Al Ain University** and a software development student at **42 Abu Dhabi**.
 
-- 🔭 Currently exploring software development, UI/UX, and interactive projects
-- 🧠 Learning through practical projects, peer collaboration, and problem-solving
-- 💡 Interested in systems programming, web development, automation, and creative technology
-- 🎮 Fun fact: I like turning projects into little worlds with personality
+I like learning by making things: a shell, a game, a small web page, a chatbot, or an interface that feels nice to use. Some projects are polished, some are experiments, and some are just me figuring out how a new idea works.
 
-## 🧰 My toolkit
+```text
+┌──────────────────────────────────────────────┐
+│  STATUS: online                              │
+│  CURRENT QUEST: learn, build, repeat         │
+│  FAVOURITE MODE: creative problem-solving   │
+│  NEXT LEVEL: loading...                      │
+└──────────────────────────────────────────────┘
+```
+
+## `> inventory`
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-## 🚀 Featured projects
+## `> main_quests`
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**Cyberthron**](https://github.com/fishaq1104/Cyberthron) | Climate-responsive mobility platform for Abu Dhabi with accessibility, sustainability, bilingual support, and an AI assistant. | TypeScript, React, Node.js |
-| [**Everyday Automation Chatbot**](https://github.com/fishaq1104/The-Everyday-Automation-Chatbot) | Discord chatbot for news, weather, reading progress, and reminders. | Python, Discord, SQLite |
-| [**Gamified Task Tracker**](https://github.com/fishaq1104/The-Gamified-Task-Tracker) | Quest-based productivity app with XP, streaks, badges, and local persistence. | JavaScript, HTML, CSS |
-| [**fractol**](https://github.com/fishaq1104/fractol) | Interactive computer-generated fractals and graphics. | C |
-| [**push_swap**](https://github.com/fishaq1104/push_swap) | Sorting challenge focused on stacks, algorithms, and efficiency. | C |
-| [**MyProfile**](https://github.com/fishaq1104/MyProfile) | Retro pixel-style portfolio and personal digital universe. | HTML, CSS, JavaScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌡️ <a href="https://github.com/fishaq1104/Cyberthron">Cyberthron</a></h3>
+      <p>A climate-responsive mobility platform for Abu Dhabi, with accessibility features, sustainable routes, bilingual support, and an AI assistant.</p>
+      <sub>TypeScript · React · Node.js</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/fishaq1104/The-Everyday-Automation-Chatbot">Everyday Automation Chatbot</a></h3>
+      <p>A Discord bot for news, weather, reading progress, and daily reminders.</p>
+      <sub>Python · Discord · SQLite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/fishaq1104/The-Gamified-Task-Tracker">Gamified Task Tracker</a></h3>
+      <p>Turns tasks into quests with XP, levels, streaks, badges, and local progress.</p>
+      <sub>JavaScript · HTML · CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/fishaq1104/Tilt-Slither-The-Gyro-Snake-Project-">Tilt Slither</a></h3>
+      <p>A Snake game experiment that swaps arrow keys for tilt-based movement.</p>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌀 <a href="https://github.com/fishaq1104/fractol">fractol</a></h3>
+      <p>Playing with fractals, colour, maths, and interactive graphics.</p>
+      <sub>C</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/fishaq1104/push_swap">push_swap</a></h3>
+      <p>A stack-sorting challenge where the fun is finding the smallest route.</p>
+      <sub>C · algorithms</sub>
+    </td>
+  </tr>
+</table>
 
-## 🎓 Learning journey
+## `> side_quests`
+
+These are the smaller builds, exercises, and experiments living in my repositories:
+
+| Repository | Kind |
+|---|---|
+| [**c0mplied**](https://github.com/fishaq1104/c0mplied) | Hackathon project · TypeScript |
+| [**CPPS**](https://github.com/fishaq1104/CPPS) | C++ practice |
+| [**eval**](https://github.com/fishaq1104/eval) | Programming exercise |
+| [**get_next_line.c**](https://github.com/fishaq1104/get_next_line.c) | C / file reading |
+| [**libft**](https://github.com/fishaq1104/libft) | C library foundations |
+| [**printf**](https://github.com/fishaq1104/printf) | C reimplementation exercise |
+| [**NicSwipe-app**](https://github.com/fishaq1104/NicSwipe-app) | TypeScript app experiment |
+| [**Open-Spark**](https://github.com/fishaq1104/Open-Spark) | Web experiment |
+| [**Web Dev Quiz Page**](https://github.com/fishaq1104/Web_Dev_Quiz_Page) | Quiz page with PHP, HTML, CSS, and JavaScript |
+| [**MyProfile**](https://github.com/fishaq1104/MyProfile) | Retro pixel portfolio |
+
+## `> save_points`
 
 | Place | Focus |
 |---|---|
 | **Al Ain University** | BSc Computer Science |
 | **42 Abu Dhabi** | Software Development Program |
-| **St. Joseph's School, Abu Dhabi** | Foundation for a lifelong learning journey |
+| **St. Joseph's School, Abu Dhabi** | Where the learning journey started |
 
-## 🏅 A few milestones
+## `> tiny_achievements`
 
-- 🥉 **3rd place** in a Tech Maze Arduino competition
-- 💻 Participated in **Tariq Riaz Hackathon** and **Transpose Hackathon**
-- 🤝 Volunteered for the **Live Healthy Festival 2023**
-- 🌍 Volunteered at the **EuroBasket Finals 2025**
+- 🥉 3rd place in a Tech Maze Arduino competition
+- 💻 Built and presented projects at the Tariq Riaz and Transpose hackathons
+- 🧠 Still collecting bugs, ideas, and better ways to solve things
 
-## 📊 GitHub at a glance
+## `> pixels_in_motion`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fishaq1104&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishaq1104&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fishaq1104&show_icons=true&hide_border=true&bg_color=17152b&title_color=ff86c8&text_color=d9ceff&icon_color=7c5cfc&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fishaq1104&hide_border=true&background=17152b&ring=ff86c8&fire=ffd45e&currStreakLabel=d9ceff&sideLabels=d9ceff&dates=9e90bc" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fishaq1104&style=flat-square&color=7c3aed" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fishaq1104&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </div>
 
 ---
 
 <div align="center">
-  <em>Building, learning, and leveling up one commit at a time ✨</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff86c8,50:493d91,100:17152b&height=100&section=footer&animation=twinkling" alt="Pixel gradient footer" />
+  <br />
+  <em>Thanks for stopping by. Now go make something fun.</em> ✨
 </div>
