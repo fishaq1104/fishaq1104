@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?](https://i.pinimg.com/736x/8e/4d/04/8e4d047a6b72d91e2fa584f23c13e00b.jpg)text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://i.pinimg.com/736x/8e/4d/04/8e4d047a6b72d91e2fa584f23c13e00b.jpg"/>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
