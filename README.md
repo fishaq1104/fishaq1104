@@ -10,8 +10,8 @@
     <a href="https://github.com/fishaq1104">
       <img src="https://img.shields.io/badge/GitHub-fishaq1104-17152b?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <a href="https://www.instagram.com/fishaq1104/">
-      <img src="https://img.shields.io/badge/Instagram-fishaq1104-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://fishaq1104.github.io/MyProfile/">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/067/098/385/small_2x/social-network-default-profile-picture-avatar-icon-isolated-illustration-vector.jpg&logoColor=white" alt="Instagram" />
     </a>
   </p>
 </div>
